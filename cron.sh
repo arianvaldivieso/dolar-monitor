@@ -1,0 +1,1 @@
+twint -u monitordolarvla -o files/file.json --json --since "$(date '+%Y-%m-%d') 00:00:00"
